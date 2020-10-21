@@ -1,5 +1,5 @@
 <a href="../index.php">Regresar al inicio</a><br><br>
-<a href="index2.php">Ejercicio Conversor Versión 2</a>
+<a href="index2.php">Hey buenas a todos</a>
 <br> 
 <?php
 include("Controllers/CalculadoraController.php");
